@@ -2,7 +2,7 @@ FROM ubuntu
 
 # Label given to container.
 LABEL "author"="Saravanan Gnanapandithamani"
-LABEL "email"="shravsap@gmail.com"
+LABEL "email"="g23ai2016@iitj.ac.in"
 
 # Opening various ports for better processing
 EXPOSE 80 
